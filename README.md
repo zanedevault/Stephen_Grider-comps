@@ -16,3 +16,8 @@ This project has a bit about the [`react-icons`](https://github.com/react-icons)
 
 --
 
+This project has a VERY indepth video on a usefull process for designing Events and State in a React app (video 177)
+
+--
+
+This project has a good explainer on why and when we sometimes have to use `prevValue` or `currentValue` or most explicitly `mostUpToDateValue` when updating state (videos 187 - 188). There is an example of this implemented in `Accordion.js`.
