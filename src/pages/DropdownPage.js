@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import Dropdown from './components/Dropdown';
+import Dropdown from '../components/Dropdown';
 
-function App() {
+function DropdownPage() {
   const [selection, setSelection] = useState(null);
 
   const handleSelect = (option) => {
@@ -22,23 +22,4 @@ function App() {
   );
 }
 
-export default App;
-
-
-
-/*
-
-import ButtonPage from './pages/ButtonPage';
-import AccordionPage from "./pages/AccordionPage";
-
-//////////////////////////////////////////////////////////
-
-  return (
-    <>
-      <ButtonPage />
-      <hr style={{margin: "100px 15px"}}/>
-      <AccordionPage />
-    </>
-  );
-
-*/
+export default DropdownPage;
