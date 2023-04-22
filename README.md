@@ -21,3 +21,9 @@ This project has a VERY indepth video on a usefull process for designing Events 
 --
 
 This project has a good explainer on why and when we sometimes have to use `prevValue` or `currentValue` or most explicitly `mostUpToDateValue` when updating state (videos 187 - 188). There is an example of this implemented in `Accordion.js`.
+
+--
+
+This project has a good explainer on how to capture clicks outside of a specific element or component (videos 205 - 214; can skip 209)
+
+--
