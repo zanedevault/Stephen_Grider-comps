@@ -27,3 +27,7 @@ This project has a good explainer on why and when we sometimes have to use `prev
 This project has a good explainer on how to capture clicks outside of a specific element or component (videos 205 - 214; can skip 209)
 
 --
+
+This project has a good explainer on navigation in a React app by setting up navigation without a library.
+
+--
