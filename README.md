@@ -35,3 +35,7 @@ This project has a good explainer on navigation in a React app by setting up nav
 This project has an example of using a Portal to correctly display a modal
 
 --
+
+This project has a good example of sorting values with JS especially sorting objects (videos 257 - 261)
+
+--
