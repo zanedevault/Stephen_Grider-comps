@@ -31,3 +31,7 @@ This project has a good explainer on how to capture clicks outside of a specific
 This project has a good explainer on navigation in a React app by setting up navigation without a library.
 
 --
+
+This project has an example of using a Portal to correctly display a modal
+
+--
